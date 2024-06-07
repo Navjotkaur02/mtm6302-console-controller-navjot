@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#content {
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #000;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+#content h2, #content h3 {
+    margin-top: 20px;
+}
+
+#content p, #content ul, #content ol {
+    margin-bottom: 20px;
+}
+
+#content img {
+    display: block;
+    margin: 0 auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+.control-group {
+    margin-bottom: 10px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#content {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
